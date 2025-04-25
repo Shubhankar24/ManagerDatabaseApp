@@ -1,6 +1,6 @@
 # Manager Database App
 
-A simple ASP.NET Core MVC project for managing managers and employees using SQL Server.
+A simple ASP.NET Core MVC project for managing managers  SQL Server.
 
 ## Tech Stack
 - ASP.NET Core MVC (.NET 8)
