@@ -27,4 +27,4 @@ A simple ASP.NET Core MVC project for managing managers  SQL Server.
 ## Future Improvements
 - Deployment to Render or Azure
 
-  ##****************************************************************Happy Learning :)*****************************************************************************************
+  ## *Happy Learning :)*
