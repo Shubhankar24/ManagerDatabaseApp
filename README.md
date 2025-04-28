@@ -10,6 +10,10 @@ A simple ASP.NET Core MVC project for managing managers  SQL Server.
 ## Setup
 - Open in Visual Studio
 - Update `appsettings.json` with your SQL Server connection string (⚠️ Required)
+- inside appsettings.json --> just add this in first line along with ur database location -------> "ConnectionString":{
+  "ConStr":"Data Source =your db location; Initial Catalog = DatabaseName; Integrated Security =True; TrustServerCertificate=True"
+  },
+  
 - Open Package Manager Console:
   - Run `Add-Migration Mig1`
   - Run `Update-Database`
@@ -22,3 +26,5 @@ A simple ASP.NET Core MVC project for managing managers  SQL Server.
 
 ## Future Improvements
 - Deployment to Render or Azure
+
+  ##****************************************************************Happy Learning :)*****************************************************************************************
